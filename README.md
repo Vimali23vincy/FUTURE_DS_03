@@ -49,6 +49,7 @@ This Task was completed during my internship at **Future Intern Company**. It in
 ---
 
 ## Dashboard Preview
+<img width="1310" height="728" alt="image" src="https://github.com/user-attachments/assets/b50d00eb-0382-4c6a-9a98-5074a8fc5bfb" />
 
 
 ---
